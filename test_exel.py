@@ -282,6 +282,7 @@ def export_log_to_excel(nom, prenom):
     return buffer
 
 
+
 def run_acls():
     st.title("")  # Vide car on affiche le titre autrement
 
