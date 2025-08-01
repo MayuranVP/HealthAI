@@ -1,9 +1,8 @@
 streamlit
 SpeechRecognition
 pyttsx3
-pyaudio
+https://download.lfd.uci.edu/pythonlibs/w4tscw6k/PyAudio‑0.2.11‑cp311‑cp311‑win_amd64.whl
 pandas
 openpyxl
 gTTS
 pygame
-
